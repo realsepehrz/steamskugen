@@ -8,5 +8,3 @@ Essentially, the script simplifies and streamlines the otherwise manual process 
 
 This script simplifies the creation of a `sku.sis` file by automating data collection and formatting.
 
-
-video guide 
